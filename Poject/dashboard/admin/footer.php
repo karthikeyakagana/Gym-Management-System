@@ -1,0 +1,1 @@
+<footer><strong>  </strong></footer>
